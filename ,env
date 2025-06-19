@@ -1,0 +1,4 @@
+N8N_BASIC_AUTH_ACTIVE=true
+N8N_BASIC_AUTH_USER=admin
+N8N_BASIC_AUTH_PASSWORD=superpassword
+WEBHOOK_URL=https://replit.localhost
